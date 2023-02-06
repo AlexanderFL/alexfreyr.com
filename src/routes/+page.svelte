@@ -9,6 +9,25 @@
 			</h1>
 		</main>
 	</div>
+
+	<footer class="fixed bottom-4 w-full">
+		<div class="flex flex-row gap-4 float-right mr-4">
+			<a href="https://github.com/AlexanderFL/alexfreyr.com">
+				<img
+					src="./github-mark-white.png"
+					alt="github-logo"
+					class="w-[30px] opacity-70 hover:opacity-100 transition duration-500 ease-in-out"
+				/>
+			</a>
+			<a href="https://stackoverflow.com/users/5258419/alexander-freyr">
+				<img
+					src="./so-logo.png"
+					alt="github-logo"
+					class="w-[30px] opacity-70 hover:opacity-100 transition duration-500 ease-in-out"
+				/>
+			</a>
+		</div>
+	</footer>
 </div>
 
 <style lang="postcss">
@@ -19,7 +38,7 @@
 	.un {
 		display: inline-block;
 		padding-bottom: 2px;
-		background-image: linear-gradient(theme(colors.slate.50) 0 0);
+		background-image: linear-gradient(theme(colors.blue.50) 0 0);
 		background-position: 0 100%;
 		background-size: 0% 2px;
 		background-repeat: no-repeat;
