@@ -6,13 +6,13 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 const config = {
 	// Consult https://kit.svelte.dev/docs/integrations#preprocessors
 	// for more information about preprocessors
-	preprocess: vitePreprocess(),
+	preprocess: [vitePreprocess()],
 
 	kit: {
 		adapter: adapter({
 			pages: 'build',
 			assets: 'build',
-			fallback: null,
+			fallback: undefined,
 			precompress: false,
 			strict: true
 		})
