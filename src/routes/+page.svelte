@@ -32,7 +32,7 @@
 
 <style lang="postcss">
 	:global(html) {
-		font-family: 'Inter', 'sans-serif';
+		font-family: 'Inter', 'system-ui', 'sans-serif';
 	}
 
 	.un {
