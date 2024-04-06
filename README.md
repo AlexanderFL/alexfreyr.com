@@ -4,7 +4,7 @@ Repository that contains the source code for my personal website [alexfreyr.com]
 
 # Setup
 
-The setup is as simple as it can get, using [node v18](https://nodejs.org/de/download/).
+The setup is as simple as it can get, using [node v20](https://nodejs.org/en/download).
 
 Install npm dependenices
 
