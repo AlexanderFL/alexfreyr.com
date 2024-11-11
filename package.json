@@ -12,21 +12,21 @@
 		"format": "prettier --plugin=prettier-plugin-svelte --plugin=prettier-plugin-organize-imports --plugin=prettier-plugin-tailwindcss --write ."
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-static": "^3.0.1",
-		"@sveltejs/kit": "^2.5.4",
-		"@sveltejs/vite-plugin-svelte": "^3.0.2",
-		"autoprefixer": "^10.4.13",
-		"postcss": "^8.4.21",
-		"prettier": "^3.2.5",
+		"@sveltejs/adapter-static": "^3.0.6",
+		"@sveltejs/kit": "^2.8.0",
+		"@sveltejs/vite-plugin-svelte": "^3.1.2",
+		"autoprefixer": "^10.4.20",
+		"postcss": "^8.4.49",
+		"prettier": "^3.3.3",
 		"prettier-plugin-organize-imports": "^3.2.4",
-		"prettier-plugin-svelte": "^3.2.2",
-		"prettier-plugin-tailwindcss": "^0.5.13",
-		"svelte": "^4.2.12",
-		"svelte-check": "^3.0.1",
-		"tailwindcss": "^3.2.4",
-		"tslib": "^2.4.1",
-		"typescript": "^5.4.2",
-		"vite": "^5.1.6"
+		"prettier-plugin-svelte": "^3.2.8",
+		"prettier-plugin-tailwindcss": "^0.5.14",
+		"svelte": "^4.2.19",
+		"svelte-check": "^3.8.6",
+		"tailwindcss": "^3.4.14",
+		"tslib": "^2.8.1",
+		"typescript": "^5.6.3",
+		"vite": "^5.4.11"
 	},
 	"type": "module"
 }
