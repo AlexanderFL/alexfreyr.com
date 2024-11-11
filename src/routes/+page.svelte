@@ -22,7 +22,7 @@
 			<a href="https://stackoverflow.com/users/5258419/alexander-freyr">
 				<img
 					src="./so-logo.png"
-					alt="github-logo"
+					alt="stackoverflow-logo"
 					class="w-[30px] opacity-70 transition duration-500 ease-in-out hover:opacity-100"
 				/>
 			</a>
