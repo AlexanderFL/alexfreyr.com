@@ -17,10 +17,10 @@
 
 	<footer class="fixed bottom-4 w-full">
 		<div class="float-right mr-4 flex flex-row gap-4">
-			<a href="https://github.com/AlexanderFL/alexfreyr.com">
+			<a href="https://github.com/AlexanderFL/alexfreyr.com" aria-label="Github social link">
 				<GithubIcon class="h-8 w-8 fill-white opacity-70 transition duration-500 ease-in-out hover:opacity-100" />
 			</a>
-			<a href="https://stackoverflow.com/users/5258419/alexander-freyr">
+			<a href="https://stackoverflow.com/users/5258419/alexander-freyr" aria-label="Stackoverflow social link">
 				<StackoverflowIcon class="h-8 w-8 fill-white opacity-70 transition duration-500 ease-in-out hover:opacity-100" />
 			</a>
 		</div>
