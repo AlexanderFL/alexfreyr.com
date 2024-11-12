@@ -3,6 +3,10 @@
 	import StackoverflowIcon from '$lib/icons/Stackoverflow.svelte';
 </script>
 
+<svelte:head>
+	<meta name="description" content="Personal contact information page that displays the best method of getting in contact, and other platforms I'm available on." />
+</svelte:head>
+
 <div class="bg-gradient-to-tr from-slate-800 to-slate-900">
 	<div class="flex h-screen flex-col justify-center text-center text-blue-50">
 		<main>
