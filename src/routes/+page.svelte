@@ -1,6 +1,6 @@
 <script lang="ts">
-	import GithubIcon from "$lib/icons/Github.svelte";
-	import StackoverflowIcon from "$lib/icons/Stackoverflow.svelte";
+	import GithubIcon from '$lib/icons/Github.svelte';
+	import StackoverflowIcon from '$lib/icons/Stackoverflow.svelte';
 </script>
 
 <div class="bg-gradient-to-tr from-slate-800 to-slate-900">
@@ -18,10 +18,10 @@
 	<footer class="fixed bottom-4 w-full">
 		<div class="float-right mr-4 flex flex-row gap-4">
 			<a href="https://github.com/AlexanderFL/alexfreyr.com">
-				<GithubIcon class="fill-white w-8 h-8 opacity-70 hover:opacity-100 transition duration-500 ease-in-out"></GithubIcon>
+				<GithubIcon class="h-8 w-8 fill-white opacity-70 transition duration-500 ease-in-out hover:opacity-100" />
 			</a>
 			<a href="https://stackoverflow.com/users/5258419/alexander-freyr">
-				<StackoverflowIcon class="fill-white w-8 h-8 opacity-70 hover:opacity-100 transition duration-500 ease-in-out"></StackoverflowIcon>
+				<StackoverflowIcon class="h-8 w-8 fill-white opacity-70 transition duration-500 ease-in-out hover:opacity-100" />
 			</a>
 		</div>
 	</footer>
