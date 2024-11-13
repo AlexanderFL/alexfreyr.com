@@ -8,7 +8,7 @@
 </svelte:head>
 
 <div class="bg-gradient-to-tr from-slate-800 to-slate-900">
-	<div class="flex h-screen flex-col justify-center text-center text-blue-50">
+	<div class="flex h-dvh flex-col justify-center text-center text-blue-50">
 		<main>
 			<h2>For any inquiries</h2>
 			<h1 class="text-3xl font-bold">
